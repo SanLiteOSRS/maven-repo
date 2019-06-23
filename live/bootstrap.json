@@ -242,13 +242,11 @@
       "size": "106492"
     },
     {
-      "hash": "0d137b9b32b42c86f200f77e790ddc9b7c8476a07ef60b113ba8762ec86a2045",
+      "hash": "054d1280aff482b585d074969ec600b210a0de1b93a3c0b0f877a2a518b32788",
       "name": "injected-client-1.5.27.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/injected-client-1.5.27.jar",
-      "size": "2193798"
-    },
-    null,
-    null
+      "size": "2193056"
+    }
   ],
   "client": {
     "artifactId": "client",
