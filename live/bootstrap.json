@@ -218,10 +218,10 @@
       "size": "617294"
     },
     {
-      "hash": "3689064ffea3bbf7b30553deb5310fc378273a8ac22976fe97df8aff099923ff",
+      "hash": "7dfd2ba47bc0d2cd5306ef411d0b6a43b6991fcd1de14edd39e83d43ae2862a1",
       "name": "client-1.5.27.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/client-1.5.27.jar",
-      "size": "3195397"
+      "size": "3195401"
     },
     {
       "hash": "75b10d93f0e425c5d81f90caeb907ba8caac3823960d4a12bf3fae9b450c1fb2",
@@ -242,10 +242,10 @@
       "size": "106492"
     },
     {
-      "hash": "054d1280aff482b585d074969ec600b210a0de1b93a3c0b0f877a2a518b32788",
+      "hash": "b1f3d43ed2a503a23e708545280893dba7ed3c02332cd61f7a63ae7693d39ffa",
       "name": "injected-client-1.5.27.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/injected-client-1.5.27.jar",
-      "size": "2193056"
+      "size": "2193815"
     }
   ],
   "client": {
