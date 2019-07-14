@@ -1,5 +1,4 @@
 {
-  "buildCommit": "2d0c2b8eb66a8088b41b29d42ec2a58ead460581",
   "artifacts": [
     {
       "hash": "b12331da8683e5f107d294adeebb83ecf9124abc1db533554d2a8d3c62832d75",
@@ -220,42 +219,35 @@
     {
       "hash": "f49bb8bf57ea1cd4dfaeb40ca37f2479ca9965cb2ceae7de2e7b7ecb2c94ae5c",
       "name": "client-1.5.28.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/client-1.5.28.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.5.28.jar",
       "size": "3331476"
     },
     {
       "hash": "8aa775107e0207e9a088de6b2faefcd604560ee9409280caab68256faf88c209",
       "name": "runelite-api-1.5.28.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.5.28.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.5.28.jar",
       "size": "1023161"
     },
     {
       "hash": "4af88600b1d9bc7c44001e323c8c07ea726bc238bb892c4f37b8e96177cb7d1b",
       "name": "runescape-api-1.5.28.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.5.28.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runescape-api-1.5.28.jar",
       "size": "59643"
     },
     {
       "hash": "4709b8589d7c5ea766bc94bcf78d32273bbeb311e2e523b190212287ff8eb321",
       "name": "http-api-1.5.28.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.5.28.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.5.28.jar",
       "size": "108046"
     },
     {
-      "hash": "ebb6c5646f34e9c2d2e73a280eae13107327dee669fd9ca9247037c1524256e3",
+      "hash": "fbc4136de631942c48b7bba483290faab1a3a399e67898ce471bd3733dbf921f",
       "name": "injected-client-1.5.28.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/injected-client-1.5.28.jar",
-      "size": "2196621"
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.5.28.jar",
+      "size": "2195749"
     }
   ],
-  "client": {
-    "artifactId": "client",
-    "classifier": "",
-    "extension": "jar",
-    "groupId": "net.runelite",
-    "properties": "",
-    "version": "1.5.28"
-  },
+  "buildCommit": "2d0c2b8eb66a8088b41b29d42ec2a58ead460581",
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Xmx512m",
