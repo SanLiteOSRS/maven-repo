@@ -217,10 +217,10 @@
       "size": "617294"
     },
     {
-      "hash": "f49bb8bf57ea1cd4dfaeb40ca37f2479ca9965cb2ceae7de2e7b7ecb2c94ae5c",
+      "hash": "8e770e25f237b7474104d86e195d27950870de260ebee7ea8fb9f1c7486a5c55",
       "name": "client-1.5.28.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.5.28.jar",
-      "size": "3331476"
+      "size": "3331457"
     },
     {
       "hash": "8aa775107e0207e9a088de6b2faefcd604560ee9409280caab68256faf88c209",
@@ -235,19 +235,21 @@
       "size": "59643"
     },
     {
-      "hash": "4709b8589d7c5ea766bc94bcf78d32273bbeb311e2e523b190212287ff8eb321",
+      "hash": "4cd8cc9f9bfeb99397b3ae7544d2caca26115f2d8b551620198306b5a74e5c92",
       "name": "http-api-1.5.28.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.5.28.jar",
       "size": "108046"
     },
     {
-      "hash": "fbc4136de631942c48b7bba483290faab1a3a399e67898ce471bd3733dbf921f",
+      "hash": "ef699b7b33c2821478cbfad1b3894a79400d030c54f8766f2b2ef48f68f638c9",
       "name": "injected-client-1.5.28.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.5.28.jar",
-      "size": "2195749"
+      "size": "2196615"
     }
   ],
-  "buildCommit": "2d0c2b8eb66a8088b41b29d42ec2a58ead460581",
+  "artifactId": "sanlite-client",
+  "sanliteVersion": "1.2.0",
+  "runeliteVersion": "1.5.28",
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
     "-Xmx512m",
