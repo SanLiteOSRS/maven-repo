@@ -217,7 +217,7 @@
       "size": "617294"
     },
     {
-      "hash": "3d158d7a940d88c9844a308490ff1096128c891e9dc9d35d64c4fc82f1d31f45",
+      "hash": "91c2efee1308543c008a124468325c54e14e744866a83f1a09af01f371100e90",
       "name": "client-1.5.34.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.5.34.jar",
       "size": "3561538"
@@ -235,21 +235,21 @@
       "size": "58524"
     },
     {
-      "hash": "3fa6b72c212fada016478089cc6dae09340fa88b65b7246cd88b85abd1e54437",
+      "hash": "c4b1cdc91e8ff1fed60dbd18d89b27ac0ed96294f8d8f4f92fbe7f61f06a3457",
       "name": "http-api-1.5.34.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.5.34.jar",
       "size": "109076"
     },
     {
-      "hash": "2daa824c0afac65b6eb1486a84592093c139df5830f86c78ecd198edac821a33",
+      "hash": "17c7e09c4477ab3279bffaa8c71bdbbffffb3d85d4a58536963afc72ad435a1b",
       "name": "injected-client-1.5.34.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.5.34.jar",
-      "size": "2259280"
+      "size": "2259629"
     }
   ],
-  "buildCommit": "3185eeedc63db49bf0b74c508eb7404bdfe769b4",
+  "buildCommit": "27786320d7be240d0afb4728ad5cb0c5fe9e71d5",
   "artifactId": "sanlite-client",
-  "sanliteVersion": "1.4.4",
+  "sanliteVersion": "1.4.5",
   "runeliteVersion": "1.5.34",
   "osrsVersion": "184",
   "clientJvm9Arguments": [
