@@ -1,4 +1,4 @@
 ![](https://i.imgur.com/DrOHIyS.png)
-# SanLite Maven Repository [![Discord](https://img.shields.io/discord/301755382160818177.svg)](https://discord.gg/rRMNYz8)
+# SanLite Maven Repository [![Discord](https://img.shields.io/discord/634166880411713576?style=flat-square)](https://discord.gg/hNgWmk6)
 
-This repository is used for providing the latest SanLite updates.
+This repository is used for hosting the latest SanLite version files.
