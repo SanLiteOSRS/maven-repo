@@ -217,16 +217,16 @@
       "size": "617294"
     },
     {
-      "hash": "e7bfaab6a85b059a5c35eaebe9468c684986f32f329ff0505579842abbbc8749",
+      "hash": "dd969ea21fd84f3891bba15ab93773633486623d3d3139184d60240468d5cb4c",
       "name": "client-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.6.6-SNAPSHOT.jar",
-      "size": "3916585"
+      "size": "3933771"
     },
     {
-      "hash": "08731750ab4715cfefa3d7a06b0c45a41ce32098c2fb37b679ef7571fd1fc794",
+      "hash": "a13bc3708d76ffa0755348e3d7286f39de606ff5ab49f4fc976caf2d99f0808a",
       "name": "runelite-api-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.6.6-SNAPSHOT.jar",
-      "size": "1089085"
+      "size": "1093370"
     },
     {
       "hash": "3b6887c5f421323a43a2e264b5433ac80bc1154b1fdc1cfa20e81d66fe3cee9d",
@@ -235,21 +235,21 @@
       "size": "60052"
     },
     {
-      "hash": "85bda8c30069869f316db77388be9797ad2ba366ccef3582d2057d2cf40303a8",
+      "hash": "94cce31c97b3cd4d54e693f0c49a0503b1d107b6b3893cf474cb2e1ec7230245",
       "name": "http-api-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.6.6-SNAPSHOT.jar",
       "size": "128315"
     },
     {
-      "hash": "130a3e980ebad81855a322b970c2d0194391e522971b424b184d9d9b736260a0",
+      "hash": "78fac48ac6e5d0726312fc9e3f1bc18d63501627b18ecb9a82233f4379385c65",
       "name": "injected-client-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.6.6-SNAPSHOT.jar",
-      "size": "2253944"
+      "size": "2254806"
     }
   ],
-  "buildCommit": "d7186f15852ef20eea057ed63c2e6b1d8d26e7f0",
+  "buildCommit": "6c3ff06286b8094b15525806eb3a8d47b00f5896",
   "artifactId": "sanlite-client",
-  "sanliteVersion": "1.11.4",
+  "sanliteVersion": "1.12",
   "runeliteVersion": "1.6.6-SNAPSHOT",
   "osrsVersion": "188",
   "clientJvm9Arguments": [
