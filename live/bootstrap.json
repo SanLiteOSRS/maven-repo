@@ -217,16 +217,16 @@
       "size": "617294"
     },
     {
-      "hash": "dd969ea21fd84f3891bba15ab93773633486623d3d3139184d60240468d5cb4c",
+      "hash": "41dc1ac20ec032e5cda5ffa6d103bc542c6878a66c69c6a6fefb3e9e1cec7ccd",
       "name": "client-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/client-1.6.6-SNAPSHOT.jar",
-      "size": "3933771"
+      "size": "3941864"
     },
     {
-      "hash": "a13bc3708d76ffa0755348e3d7286f39de606ff5ab49f4fc976caf2d99f0808a",
+      "hash": "2716eb730bdede0463f96422e291657a2dfd3d970e2be6e0cd31282e69659b3d",
       "name": "runelite-api-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.6.6-SNAPSHOT.jar",
-      "size": "1093370"
+      "size": "1093525"
     },
     {
       "hash": "3b6887c5f421323a43a2e264b5433ac80bc1154b1fdc1cfa20e81d66fe3cee9d",
@@ -235,21 +235,21 @@
       "size": "60052"
     },
     {
-      "hash": "94cce31c97b3cd4d54e693f0c49a0503b1d107b6b3893cf474cb2e1ec7230245",
+      "hash": "b8eafb810379bc9b5831bb202e20653c1b02285dac06dfbcf02f4326764e9ff1",
       "name": "http-api-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.6.6-SNAPSHOT.jar",
       "size": "128315"
     },
     {
-      "hash": "78fac48ac6e5d0726312fc9e3f1bc18d63501627b18ecb9a82233f4379385c65",
+      "hash": "13cd6d50aec56c2337ea5e3144565096c0e926b8bed62a7cfa745bf7a1c1500f",
       "name": "injected-client-1.6.6-SNAPSHOT.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/injected-client-1.6.6-SNAPSHOT.jar",
-      "size": "2254806"
+      "size": "2253974"
     }
   ],
-  "buildCommit": "6c3ff06286b8094b15525806eb3a8d47b00f5896",
+  "buildCommit": "25d4f95e5a7d503013485183155bad24335c1c57",
   "artifactId": "sanlite-client",
-  "sanliteVersion": "1.12",
+  "sanliteVersion": "1.12.1",
   "runeliteVersion": "1.6.6-SNAPSHOT",
   "osrsVersion": "188",
   "clientJvm9Arguments": [
