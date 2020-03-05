@@ -217,40 +217,40 @@
       "size": "617294"
     },
     {
-      "hash": "bac824942d9244f0fec8e9222db39048c9a0de3e8e4b8e4c39af14ba25bedeee",
-      "name": "client-1.6.8.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.6.8.jar",
-      "size": "3982377"
+      "hash": "8f7336c288cc30e38483c8b59dba298ed3189899c5b2b36e8f834dacd4583438",
+      "name": "client-1.6.9.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/client-1.6.9.jar",
+      "size": "3991171"
     },
     {
-      "hash": "132b5cd9015da4188077b7a1e894fed2d1809b40a31dfc78332dd7672353d469",
-      "name": "runelite-api-1.6.8.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.6.8.jar",
-      "size": "1097806"
+      "hash": "3a319540b2b82e04d1e541ba8de843a03a013c285362c1d7253083b9b59e9f88",
+      "name": "runelite-api-1.6.9.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.6.9.jar",
+      "size": "1098783"
     },
     {
-      "hash": "ff5288c80e823ba6528356f152c87994ca6bae1c00e15076c8d04d33b12adad9",
-      "name": "runescape-api-1.6.8.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runescape-api-1.6.8.jar",
+      "hash": "f1a31dd10f3bef46565085421783f221204b5315ca48a07478a44aada0144cd8",
+      "name": "runescape-api-1.6.9.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runescape-api-1.6.9.jar",
       "size": "60087"
     },
     {
-      "hash": "cb4e8bbbd917ed88400bc2a08b308cef3fe8d8c979573af3560d74c04828b284",
-      "name": "http-api-1.6.8.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.6.8.jar",
-      "size": "128786"
+      "hash": "2e4790e13d5eb695ab27e4e5cb3b215f45a7cf2bda8c44a4d8169fec5a536e2f",
+      "name": "http-api-1.6.9.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.6.9.jar",
+      "size": "128787"
     },
     {
-      "hash": "4cc3e249b5298ccb6cc4033607afa5d3fa0d0246de859a39e0c0000afa5c3120",
-      "name": "injected-client-1.6.8.jar",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.6.8.jar",
-      "size": "2255213"
+      "hash": "87500042b0ee2000d2f3dbb097d5f55542f4a0163a38f67ac3c5d881889eea2e",
+      "name": "injected-client-1.6.9.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/injected-client-1.6.9.jar",
+      "size": "2255212"
     }
   ],
-  "buildCommit": "116921f41b2bbedb9bb5aad305659912870a6703",
+  "buildCommit": "2bb837cecc7ae683844dc3cf15235999db1269f8",
   "artifactId": "sanlite-client",
-  "sanliteVersion": "1.13.0",
-  "runeliteVersion": "1.6.8",
+  "sanliteVersion": "1.13.1",
+  "runeliteVersion": "1.6.9",
   "osrsVersion": "188",
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
