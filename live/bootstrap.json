@@ -217,39 +217,39 @@
       "size": "617294"
     },
     {
-      "hash": "8540939c43405e345ebcd1c7c3922f5dbf8ce577a313ba0133ff7765b13c1693",
+      "hash": "d991abe2d9cc9a0fd3fb6fa841c892dc298cd2db39731ce9d9ae206e4bb2f984",
       "name": "client-1.6.12.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/client-1.6.12.jar",
-      "size": "4067249"
+      "size": "4084315"
     },
     {
-      "hash": "bd5226dab240ba1515c9cbbbec2ba5dfbf1e54eb546059091fea5bf06b42b5d7",
+      "hash": "eb8c4cbb8b266a589da59e90764aa6230eba23a4312b7ce969e1e4edd1d967e9",
       "name": "runelite-api-1.6.12.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.6.12.jar",
-      "size": "1102246"
+      "size": "1105339"
     },
     {
-      "hash": "92f587f11a11eee190fa2dfd0f1c0040be4a9e6630c2d4f240b1494b65ee6482",
+      "hash": "6ab8412c6f8679349276b9d557111aeb0910a58e6cfa59a2f561b1bde7aeee32",
       "name": "runescape-api-1.6.12.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.6.12.jar",
-      "size": "60310"
+      "size": "60352"
     },
     {
-      "hash": "018d3c3c37cdd6ea95522c6049e923c91642f82ee8a4b3f8e5617b7aa7f7c660",
+      "hash": "d1f2516bc733c25eff54060743cc51a7c5dd90808086f326a79361ab0b54beec",
       "name": "http-api-1.6.12.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.6.12.jar",
       "size": "126874"
     },
     {
-      "hash": "0df749a1b67f4f87bc2354de9568260ed937683aca33488f500910b5f8aba522",
+      "hash": "4c86c1156d51ae98509ddd2ed6bcc33b3b389291b38473ff8b30ebc23fdab662",
       "name": "injected-client-1.6.12.jar",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/injected-client-1.6.12.jar",
-      "size": "2234700"
+      "size": "2234688"
     }
   ],
-  "buildCommit": "cab5d3234c6beb8d6d245edfd3364292ebd769e6",
+  "buildCommit": "79b81ce1cd526f4b9228f297756239674134fa5a",
   "artifactId": "sanlite-client",
-  "sanliteVersion": "1.13.4",
+  "sanliteVersion": "1.14.0",
   "runeliteVersion": "1.6.12",
   "osrsVersion": "189",
   "clientJvm9Arguments": [
