@@ -187,24 +187,6 @@
       "size": 617313
     },
     {
-      "name": "jocl-1.0.jar",
-      "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
-      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0.jar",
-      "size": 67704
-    },
-    {
-      "name": "jocl-1.0-macos-x64.jar",
-      "hash": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
-      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-x64.jar",
-      "size": 59030
-    },
-    {
-      "name": "jocl-1.0-macos-arm64.jar",
-      "hash": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
-      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-arm64.jar",
-      "size": 59579
-    },
-    {
       "name": "client-1.7.2.2.jar",
       "hash": "9f41b8e084fdfff84d42db9b0222c6bffeb8bf1b838a1553e34fe39cdad03746",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/client-1.7.2.2.jar",
@@ -223,12 +205,6 @@
       "size": 110753
     },
     {
-      "name": "jshell-1.7.2.2.jar",
-      "hash": "1714f04eec5a4396c2aec77e87acdeffc6175ee3f28484812c391a57959769c2",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/jshell-1.7.2.2.jar",
-      "size": 24808
-    },
-    {
       "name": "http-api-1.7.2.2.jar",
       "hash": "c900034f70b36037ed1ac5c93438815f2be0759c52edd4aa6de40d96f4c2b24d",
       "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.7.2.2.jar",
@@ -241,7 +217,7 @@
       "size": 2304299
     }
   ],
-  "buildCommit": "fb7122dfbf7cfffecb5b932a8dacef5dbf679f17",
+  "buildCommit": "2c12aaf52f5e7d0677c157469ec3be4fc13368c4",
   "client": {
     "artifactId": "client",
     "classifier": "",
