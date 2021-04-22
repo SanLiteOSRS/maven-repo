@@ -1,0 +1,290 @@
+{
+  "artifacts": [
+    {
+      "name": "slf4j-api-1.7.25.jar",
+      "hash": "18c4a0095d5c1da6b817592e767bb23d29dd2f560ad74df75ff3961dbde25b79",
+      "path": "https://mvn.runelite.net/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
+      "size": 41203
+    },
+    {
+      "name": "logback-classic-1.2.3.jar",
+      "hash": "fb53f8539e7fcb8f093a56e138112056ec1dc809ebb020b59d8a36a5ebac37e0",
+      "path": "https://mvn.runelite.net/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
+      "size": 290339
+    },
+    {
+      "name": "logback-core-1.2.3.jar",
+      "hash": "5946d837fe6f960c02a53eda7a6926ecc3c758bbdd69aa453ee429f858217f22",
+      "path": "https://mvn.runelite.net/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar",
+      "size": 471901
+    },
+    {
+      "name": "jopt-simple-5.0.1.jar",
+      "hash": "9f0c8d50fa4b79b6ff1502dbec8502179d6b9497cacbe17a13074001aed537ec",
+      "path": "https://mvn.runelite.net/net/sf/jopt-simple/jopt-simple/5.0.1/jopt-simple-5.0.1.jar",
+      "size": 78826
+    },
+    {
+      "name": "guava-23.2-jre.jar",
+      "hash": "5be9a7d05ba0ccd74708bc8018ae412255f85843c0b92302e9b9befa6ed52564",
+      "path": "https://mvn.runelite.net/com/google/guava/guava/23.2-jre/guava-23.2-jre.jar",
+      "size": 2649860
+    },
+    {
+      "name": "guice-4.1.0-no_aop.jar",
+      "hash": "9264c6931c431e928dc64adc842584d5f57d17b2f3aff29221f2b3fdea673dad",
+      "path": "https://mvn.runelite.net/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar",
+      "size": 428603
+    },
+    {
+      "name": "javax.inject-1.jar",
+      "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
+      "path": "https://mvn.runelite.net/javax/inject/javax.inject/1/javax.inject-1.jar",
+      "size": 2497
+    },
+    {
+      "name": "aopalliance-1.0.jar",
+      "hash": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
+      "path": "https://mvn.runelite.net/aopalliance/aopalliance/1.0/aopalliance-1.0.jar",
+      "size": 4467
+    },
+    {
+      "name": "gson-2.8.5.jar",
+      "hash": "233a0149fc365c9f6edbd683cfe266b19bdc773be98eabdaf6b3c924b48e7d81",
+      "path": "https://mvn.runelite.net/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar",
+      "size": 241622
+    },
+    {
+      "name": "substance-8.0.02.jar",
+      "hash": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/substance/8.0.02/substance-8.0.02.jar",
+      "size": 1589195
+    },
+    {
+      "name": "trident-1.5.00.jar",
+      "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
+      "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
+      "size": 79726
+    },
+    {
+      "name": "commons-text-1.2.jar",
+      "hash": "d4a57bbc1627da7c391308fd0fe910b83170fb66afd117236a5b111d2db1590b",
+      "path": "https://mvn.runelite.net/org/apache/commons/commons-text/1.2/commons-text-1.2.jar",
+      "size": 136544
+    },
+    {
+      "name": "commons-lang3-3.7.jar",
+      "hash": "6e8dc31e046508d9953c96534edf0c2e0bfe6f468966b5b842b3f87e43b6a847",
+      "path": "https://mvn.runelite.net/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar",
+      "size": 499634
+    },
+    {
+      "name": "jogl-all-2.4.0-rc-20200429.jar",
+      "hash": "100e3c65ca864732f1616d575e114e1352e6bb5b073467d42acd4c4126cfca40",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429.jar",
+      "size": 3556304
+    },
+    {
+      "name": "jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
+      "hash": "65512191409b98be8f435fc82dca5fe964ce79cdde5cdd09783144b5391893b2",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-windows-amd64.jar",
+      "size": 227080
+    },
+    {
+      "name": "jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
+      "hash": "e0fa809496961db1b1f840fead006a03357d1215b0464f54dd872081e2e6094b",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-windows-i586.jar",
+      "size": 198922
+    },
+    {
+      "name": "jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
+      "hash": "4bad2ac72598f517f284b172827fcec591569dcf2a551b5315d58c6ddbbed94d",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-linux-amd64.jar",
+      "size": 244518
+    },
+    {
+      "name": "jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
+      "hash": "e040f0f7e77ec76cf9afba153208ae8b437ef3358ffcfe994c002b68fcfddcb9",
+      "path": "https://repo.runelite.net/net/runelite/jogl/jogl-all/2.4.0-rc-20200429/jogl-all-2.4.0-rc-20200429-natives-macosx-universal.jar",
+      "size": 232714
+    },
+    {
+      "name": "gluegen-rt-2.4.0-rc-20200429.jar",
+      "hash": "f21532326c62b8371ffe5bb5c9cdb5ae2e1c73f4893e6212f34a005a3755a58f",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429.jar",
+      "size": 360948
+    },
+    {
+      "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
+      "hash": "b02d1c1fa3184c977e04d4abc7c944676d0591fb363885762abc5e0ced7d0b92",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-windows-amd64.jar",
+      "size": 8696
+    },
+    {
+      "name": "gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
+      "hash": "337582d1ea47c240b1b58e65fdd904a2c9665e42abedf4fcf152bb669d9a3b8e",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-windows-i586.jar",
+      "size": 7526
+    },
+    {
+      "name": "gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
+      "hash": "785f12e6c4242450ed5bcadc541288c9ec8a9b965ee6b5cae6bff2a2c65c1e35",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-linux-amd64.jar",
+      "size": 4332
+    },
+    {
+      "name": "gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
+      "hash": "4714b9abe762315b3b42feee90dad2e755ad7a0f6baa5d2d11cbd3d08fe663db",
+      "path": "https://repo.runelite.net/net/runelite/gluegen/gluegen-rt/2.4.0-rc-20200429/gluegen-rt-2.4.0-rc-20200429-natives-macosx-universal.jar",
+      "size": 3457
+    },
+    {
+      "name": "archive-patcher-1.0.jar",
+      "hash": "3dbd9eb9104e46979f2df85108096241780969786fd7c298ac22c83fdf66579f",
+      "path": "https://repo.runelite.net/net/runelite/archive-patcher/1.0/archive-patcher-1.0.jar",
+      "size": 163838
+    },
+    {
+      "name": "jna-4.5.1.jar",
+      "hash": "fbc9de96a0cc193a125b4008dbc348e9ed54e5e13fc67b8ed40e645d303cc51b",
+      "path": "https://mvn.runelite.net/net/java/dev/jna/jna/4.5.1/jna-4.5.1.jar",
+      "size": 1440662
+    },
+    {
+      "name": "jna-platform-4.5.1.jar",
+      "hash": "84c8667555ee8dd91fef44b451419f6f16f71f727d5fc475a10c2663eba83abb",
+      "path": "https://mvn.runelite.net/net/java/dev/jna/jna-platform/4.5.1/jna-platform-4.5.1.jar",
+      "size": 2327547
+    },
+    {
+      "name": "jsr305-3.0.2.jar",
+      "hash": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
+      "path": "https://mvn.runelite.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+      "size": 19936
+    },
+    {
+      "name": "okhttp-3.7.0.jar",
+      "hash": "f55abda036da75e1af45bd43b9dfa79b2a3d90905be9cb38687c6621597a8165",
+      "path": "https://mvn.runelite.net/com/squareup/okhttp3/okhttp/3.7.0/okhttp-3.7.0.jar",
+      "size": 394987
+    },
+    {
+      "name": "okio-1.12.0.jar",
+      "hash": "bfe7dfe483c37137966a1690f0c7d0b448ba217902c1fed202aaffdbba3291ae",
+      "path": "https://mvn.runelite.net/com/squareup/okio/okio/1.12.0/okio-1.12.0.jar",
+      "size": 81088
+    },
+    {
+      "name": "commons-csv-1.4.jar",
+      "hash": "9d4924588d6280c7516db3a4b7298306db5b6f0d1cdf568ce738309b5660f008",
+      "path": "https://mvn.runelite.net/org/apache/commons/commons-csv/1.4/commons-csv-1.4.jar",
+      "size": 39978
+    },
+    {
+      "name": "discord-1.2.jar",
+      "hash": "0243291bb0c2844bbde977981a6e928ed2f5813a78e9edf786fc76d38404afd5",
+      "path": "https://repo.runelite.net/net/runelite/discord/1.2/discord-1.2.jar",
+      "size": 617313
+    },
+    {
+      "name": "commons-io-2.8.0.jar",
+      "hash": "02f291e5d1243dc143496e3cbbb40a1ced47aa58f2d633d3e38780cd068d5074",
+      "path": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar",
+      "size": 285424
+    },
+    {
+      "name": "jocl-1.0.jar",
+      "hash": "126bde4a6be269579a84a67dfc7707fd2916e0eef11b74c4de7cc61a36d2420e",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0.jar",
+      "size": 67704
+    },
+    {
+      "name": "jocl-1.0-macos-x64.jar",
+      "hash": "2bcb853daff68fe4faed28f871624a428c5db90f9e3ecb4286df8aeca4b93b38",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-x64.jar",
+      "size": 59030
+    },
+    {
+      "name": "jocl-1.0-macos-arm64.jar",
+      "hash": "4fb96241f95970bd329ef03af1e9c94a9114e91a571523bcaf2af66bee2f2bfa",
+      "path": "https://repo.runelite.net/net/runelite/jocl/jocl/1.0/jocl-1.0-macos-arm64.jar",
+      "size": 59579
+    },
+    {
+      "name": "runelite-client-1.19.0.jar",
+      "hash": "f579fcbc624566f25006d75c0af100b924b45413c13664832bc0171881ce8b15",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-client-1.19.0.jar",
+      "size": 8219195
+    },
+    {
+      "name": "runelite-api-1.19.0.jar",
+      "hash": "d43ff264928423c244b527ce320a9180f5028f11f679e55a772aa1da17f40fa8",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.19.0.jar",
+      "size": 1174728
+    },
+    {
+      "name": "runescape-api-1.19.0.jar",
+      "hash": "eeecc04b26f3d260a5c7036ccbbc4e232619541a66ecf5a3333f7ff6f87fffc5",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.19.0.jar",
+      "size": 106826
+    },
+    {
+      "name": "runelite-jshell-1.19.0.jar",
+      "hash": "30687d289c79b3b6397551af7e53c4418e45ce1aef3e6bdbc28c222920877fa9",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-jshell-1.19.0.jar",
+      "size": 22749
+    },
+    {
+      "name": "http-api-1.19.0.jar",
+      "hash": "ffa74e9013498dd293b026f080bee6d5fbff3177e3a763e27a87be60d88df389",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.19.0.jar",
+      "size": 137385
+    }
+  ],
+  "buildCommit": "0adb9267e4c2c943e6962c7b30ed136c33fdb566",
+  "client": {
+    "artifactId": "client",
+    "classifier": "",
+    "extension": "jar",
+    "groupId": "net.runelite",
+    "version": "1.7.5",
+    "sanliteVersion": "1.19.0",
+    "osrsRevision": "195"
+  },
+  "clientJvm9Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true"
+  ],
+  "clientJvmArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true"
+  ],
+  "launcherArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Xincgc",
+    "-XX:+UseConcMarkSweepGC",
+    "-XX:+UseParNewGC",
+    "-Djna.nosys=true"
+  ],
+  "launcherJvm11Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx512m",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "-Djna.nosys=true"
+  ]
+}
