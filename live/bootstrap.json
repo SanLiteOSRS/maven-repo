@@ -211,45 +211,45 @@
       "size": 59579
     },
     {
-      "name": "runelite-client-1.19.1.jar",
-      "hash": "6ea64256badd47dadb2eda6bf825e98e526522a58b8e2f5537042a88b6b38627",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-client-1.19.1.jar",
-      "size": 8224204
+      "name": "runelite-client-1.19.2.jar",
+      "hash": "85496334f2d01373edf419f61085e2c07997dc7d41520347011be415116477a8",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-client-1.19.2.jar",
+      "size": 8265449
     },
     {
-      "name": "runelite-api-1.19.1.jar",
-      "hash": "bf70883d035d27524cc500786654e20142f4146e28d6896987640418c881909e",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.19.1.jar",
-      "size": 1175437
+      "name": "runelite-api-1.19.2.jar",
+      "hash": "82b1db8929208f711e6cb5c0c9e640483599692e7512cf5b656ebe9f5f3052c5",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.19.2.jar",
+      "size": 1177573
     },
     {
-      "name": "runescape-api-1.19.1.jar",
-      "hash": "95190321fa97548ce64e7c612a5bec3f9462a2d91f218fd59390f602d6a22b05",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.19.1.jar",
-      "size": 106818
+      "name": "runescape-api-1.19.2.jar",
+      "hash": "b9eca6a1ca0ac9d1178f3112e7730e05a8c1634ba80ef12eee69dc921a7e76d9",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.19.2.jar",
+      "size": 106822
     },
     {
-      "name": "runelite-jshell-1.19.1.jar",
+      "name": "runelite-jshell-1.19.2.jar",
       "hash": "30687d289c79b3b6397551af7e53c4418e45ce1aef3e6bdbc28c222920877fa9",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-jshell-1.19.1.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-jshell-1.19.2.jar",
       "size": 22749
     },
     {
-      "name": "http-api-1.19.1.jar",
-      "hash": "2f2e5c9e386ff633c5dfb8c98dc5001d867340e00cddfd397f57c55c281ee8d9",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.19.1.jar",
-      "size": 137386
+      "name": "http-api-1.19.2.jar",
+      "hash": "357b9bd35b33f1ee5bebffda6ffb9104ac0f998c5216bffc5131ad2e65c8a1b4",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.19.2.jar",
+      "size": 137387
     }
   ],
-  "buildCommit": "552cd288be06642bd80ac701e49fb9b906a0ef7f",
+  "buildCommit": "fa03a8758de3b2f1ccc5c29b7eb94ba0eeefdbe9",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
-    "version": "1.7.7",
-    "sanliteVersion": "1.19.1",
-    "osrsRevision": "195"
+    "version": "1.7.8.1",
+    "sanliteVersion": "1.19.2",
+    "osrsRevision": "196"
   },
   "clientJvm9Arguments": [
     "-XX:+DisableAttachMechanism",
