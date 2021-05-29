@@ -211,44 +211,44 @@
       "size": 59579
     },
     {
-      "name": "runelite-client-1.19.3.jar",
-      "hash": "9d135f69fe5fb9383010ea20d31f1780b3497761f8d89cf67c2a63c55e40f2c8",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-client-1.19.3.jar",
-      "size": 8312069
+      "name": "runelite-client-1.19.4.jar",
+      "hash": "c64dd431a61ebac837bbc1377d327202134d51eb356a9468d329677fccee9d4a",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-client-1.19.4.jar",
+      "size": 8312104
     },
     {
-      "name": "runelite-api-1.19.3.jar",
+      "name": "runelite-api-1.19.4.jar",
       "hash": "88cbd2abd9e85e1ee3d6c920ad8fca33c0878882a9b747412a45a00761e88d69",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.19.3.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-api-1.19.4.jar",
       "size": 1186263
     },
     {
-      "name": "runescape-api-1.19.3.jar",
-      "hash": "7a9db2b96ca988043bef8bae5110b1dd2fa2ff2c82e9e67651253cce4582f5ab",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.19.3.jar",
-      "size": 108434
+      "name": "runescape-api-1.19.4.jar",
+      "hash": "5960a5c526bb29b179d95b65fffa1020c3ee291be6fa175d35bcc0f560ecef72",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runescape-api-1.19.4.jar",
+      "size": 108438
     },
     {
-      "name": "runelite-jshell-1.19.3.jar",
+      "name": "runelite-jshell-1.19.4.jar",
       "hash": "30687d289c79b3b6397551af7e53c4418e45ce1aef3e6bdbc28c222920877fa9",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-jshell-1.19.3.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/runelite-jshell-1.19.4.jar",
       "size": 22749
     },
     {
-      "name": "http-api-1.19.3.jar",
-      "hash": "04c349dcefae1a915c1f1e2fd0744164b1a4e08b6d41cea960bda9c22f55261c",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.19.3.jar",
-      "size": 137300
+      "name": "http-api-1.19.4.jar",
+      "hash": "1f13b00e9040bcac0c22b9bfca0ed2f1207592c5bc838a539119f63592baf4d9",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/live/http-api-1.19.4.jar",
+      "size": 137301
     }
   ],
-  "buildCommit": "e911dce3f537c2af37df0b7f123d1c98e557d2d9",
+  "buildCommit": "9343892c74382466c036ebac0a850055da31c5fc",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
     "version": "1.7.10",
-    "sanliteVersion": "1.19.3",
+    "sanliteVersion": "1.19.4",
     "osrsRevision": "196.2"
   },
   "clientJvm9Arguments": [
