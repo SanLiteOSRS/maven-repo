@@ -211,44 +211,44 @@
       "size": 59579
     },
     {
-      "name": "runelite-client-1.19.7.jar",
-      "hash": "3447b0e514132912e6046802cbc9cc3f835994718836a63dd3c931ea21b08b66",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-client-1.19.7.jar",
-      "size": 8390859
+      "name": "runelite-client-1.19.8.jar",
+      "hash": "00eca6afe6dded540269afe12956cfd5fadecd8cd8e87da47e4680c1bbcb98e3",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-client-1.19.8.jar",
+      "size": 8406487
     },
     {
-      "name": "runelite-api-1.19.7.jar",
-      "hash": "d4889dc4d11ec5f5f30354d4f9b9061ee1a834a14c0dff061df82db184fe88a5",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.19.7.jar",
-      "size": 1194942
+      "name": "runelite-api-1.19.8.jar",
+      "hash": "2dc0c067d50809e3e6514d974341a5df52445a9540f6ead46d4ed1545bcdfc35",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-api-1.19.8.jar",
+      "size": 1196272
     },
     {
-      "name": "runescape-api-1.19.7.jar",
-      "hash": "09da9266027d02ce28b7c6f34702197123d17937a3671e4d60f310f030237bfd",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runescape-api-1.19.7.jar",
-      "size": 108511
+      "name": "runescape-api-1.19.8.jar",
+      "hash": "e49bebd272b1a2969cedd4467545dfadd8b87d9c5c4d3e50efc22fce3d40fed2",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runescape-api-1.19.8.jar",
+      "size": 108514
     },
     {
-      "name": "runelite-jshell-1.19.7.jar",
+      "name": "runelite-jshell-1.19.8.jar",
       "hash": "30687d289c79b3b6397551af7e53c4418e45ce1aef3e6bdbc28c222920877fa9",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-jshell-1.19.7.jar",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/runelite-jshell-1.19.8.jar",
       "size": 22749
     },
     {
-      "name": "http-api-1.19.7.jar",
-      "hash": "b3ee8388e117a803c50af818e6c6c1711dd4ff9cec4d9fcd3bc5df87933de387",
-      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.19.7.jar",
-      "size": 135008
+      "name": "http-api-1.19.8.jar",
+      "hash": "a44c48be4df30593317a4e1fcb30a0143c19681df490353a5ca294da1af101ee",
+      "path": "https://raw.githubusercontent.com/sanliteosrs/maven-repo/master/staging/http-api-1.19.8.jar",
+      "size": 135236
     }
   ],
-  "buildCommit": "6422bdafc8725b057bcc5a86c4030d753791a4cc",
+  "buildCommit": "e9c869381fc998d5ec7fb516231aa2de3edd6d89",
   "client": {
     "artifactId": "client",
     "classifier": "",
     "extension": "jar",
     "groupId": "net.runelite",
-    "version": "1.7.13",
-    "sanliteVersion": "1.19.7",
+    "version": "1.7.14.1",
+    "sanliteVersion": "1.19.8",
     "osrsRevision": "197"
   },
   "clientJvm9Arguments": [
